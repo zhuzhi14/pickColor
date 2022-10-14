@@ -1,0 +1,15 @@
+D:\c#\WpfApplication18\WpfApplication18\bin\Debug\WpfApplication18.exe.config
+D:\c#\WpfApplication18\WpfApplication18\bin\Debug\WpfApplication18.exe
+D:\c#\WpfApplication18\WpfApplication18\bin\Debug\WpfApplication18.pdb
+D:\c#\WpfApplication18\WpfApplication18\obj\Debug\WpfApplication18.csproj.AssemblyReference.cache
+D:\c#\WpfApplication18\WpfApplication18\obj\Debug\MainWindow.g.cs
+D:\c#\WpfApplication18\WpfApplication18\obj\Debug\App.g.cs
+D:\c#\WpfApplication18\WpfApplication18\obj\Debug\WpfApplication18_MarkupCompile.cache
+D:\c#\WpfApplication18\WpfApplication18\obj\Debug\WpfApplication18_MarkupCompile.lref
+D:\c#\WpfApplication18\WpfApplication18\obj\Debug\MainWindow.baml
+D:\c#\WpfApplication18\WpfApplication18\obj\Debug\WpfApplication18.g.resources
+D:\c#\WpfApplication18\WpfApplication18\obj\Debug\WpfApplication18.Properties.Resources.resources
+D:\c#\WpfApplication18\WpfApplication18\obj\Debug\WpfApplication18.csproj.GenerateResource.cache
+D:\c#\WpfApplication18\WpfApplication18\obj\Debug\WpfApplication18.csproj.CoreCompileInputs.cache
+D:\c#\WpfApplication18\WpfApplication18\obj\Debug\WpfApplication18.exe
+D:\c#\WpfApplication18\WpfApplication18\obj\Debug\WpfApplication18.pdb
